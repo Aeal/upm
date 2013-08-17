@@ -2,7 +2,7 @@
 *.csproj
 *.DotSettings
 *.suo
-/_ReSharper.UnityVS.upm
-/obj
-/Temp
-/Library
+/upm/_ReSharper.UnityVS.upm
+/upm/obj
+/upm/Temp
+/upm/Library
