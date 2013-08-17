@@ -1,0 +1,8 @@
+*.sln
+*.csproj
+*.DotSettings
+*.suo
+/_ReSharper.UnityVS.upm
+/obj
+/Temp
+/Library
