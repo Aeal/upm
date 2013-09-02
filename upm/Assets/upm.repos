@@ -1,1 +1,38 @@
-[{"PackageName":"Test Package","PackageURL":"http://github.com/Test_Package","PackageVersion":"1.0","PackageMaintainer":"Tyler Steele"}]
+
+{
+    "Repositories" : [
+        {
+            "PackageName" : "iTween",
+            "PackageURL"  : "https://github.com/UPMCollection/iTween.git",
+            "PackageMaintainer" : "UPMCollection",
+            "PackageDescription" : null,
+            "InfoUrl"            : null,
+            "PackageVersion"     : 0,
+            "useCredentials"     : false,
+            "Username"           : "",
+            "Password"           : ""
+        },
+        {
+            "PackageName" : "LibNoise.Unity",
+            "PackageURL"  : "https://github.com/UPMCollection/LibNoise.Unity.git",
+            "PackageMaintainer" : "UPMCollection",
+            "PackageDescription" : null,
+            "InfoUrl"            : null,
+            "PackageVersion"     : 0,
+            "useCredentials"     : false,
+            "Username"           : "",
+            "Password"           : ""
+        },
+        {
+            "PackageName" : "SSE",
+            "PackageURL"  : "https://github.com/Aeal/SSE.git",
+            "PackageMaintainer" : "Aeal",
+            "PackageDescription" : null,
+            "InfoUrl"            : "https://raw.github.com/Aeal/SSE/info.ups",
+            "PackageVersion"     : 1,
+            "useCredentials"     : false,
+            "Username"           : "",
+            "Password"           : ""
+        }
+    ]
+}
